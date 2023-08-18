@@ -1,0 +1,21 @@
+.txt{
+    height: 600px;
+    width: 50%;
+    background-color: black;
+    border: 2px solid #00fffb;
+    color: white;
+}
+.txt:active{
+    border: 2px solid #00fffb;
+}
+.code{
+    display: flex;
+}
+.why{
+    background-color: black;
+    color: #ffffff;
+    border: 2px solid #00ffff;
+}
+.why:active{
+    border: 2px solid #00ffff;
+}
